@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform-appNegocio", "presentacion\winform-appNegocio.csproj", "{6E002466-9A7C-4EF3-9306-ED60773857EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{F1FD7106-64EB-428A-92C0-EDCE8162A2FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rutas", "rutas\rutas.csproj", "{229AC2CE-A521-4D60-A1B9-23751F7333DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E002466-9A7C-4EF3-9306-ED60773857EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E002466-9A7C-4EF3-9306-ED60773857EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E002466-9A7C-4EF3-9306-ED60773857EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E002466-9A7C-4EF3-9306-ED60773857EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FD7106-64EB-428A-92C0-EDCE8162A2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FD7106-64EB-428A-92C0-EDCE8162A2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FD7106-64EB-428A-92C0-EDCE8162A2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FD7106-64EB-428A-92C0-EDCE8162A2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229AC2CE-A521-4D60-A1B9-23751F7333DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229AC2CE-A521-4D60-A1B9-23751F7333DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229AC2CE-A521-4D60-A1B9-23751F7333DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229AC2CE-A521-4D60-A1B9-23751F7333DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C585907-4861-4380-80BA-9B6D785912F9}
+	EndGlobalSection
+EndGlobal
